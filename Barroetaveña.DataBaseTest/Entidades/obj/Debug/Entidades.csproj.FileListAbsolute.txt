@@ -1,0 +1,6 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.DataBaseTest\Entidades\bin\Debug\Entidades.dll.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.DataBaseTest\Entidades\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.DataBaseTest\Entidades\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.DataBaseTest\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.DataBaseTest\Entidades\obj\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.DataBaseTest\Entidades\obj\Debug\Entidades.pdb

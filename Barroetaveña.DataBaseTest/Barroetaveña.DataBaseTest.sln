@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{5027C3D3-0C12-4D20-A859-84EC8D0D5271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBTest", "DBTest\DBTest.csproj", "{FD27AA23-4588-4D8B-9A41-7B8307872022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5027C3D3-0C12-4D20-A859-84EC8D0D5271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5027C3D3-0C12-4D20-A859-84EC8D0D5271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5027C3D3-0C12-4D20-A859-84EC8D0D5271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5027C3D3-0C12-4D20-A859-84EC8D0D5271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD27AA23-4588-4D8B-9A41-7B8307872022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD27AA23-4588-4D8B-9A41-7B8307872022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD27AA23-4588-4D8B-9A41-7B8307872022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD27AA23-4588-4D8B-9A41-7B8307872022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
